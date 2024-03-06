@@ -1,0 +1,51 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.here{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%;
+}
+
+P{
+    font-size: 35px;
+    text-decoration: line-through;
+    color: blue;
+}
+
+button{
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 7px solid black;
+    font-weight: 400;
+    
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    color: black;
+    border-radius: 5px solid black;
+    margin-bottom: 40px;
+     text-align: center;
+     font-style: italic;
+     text-transform: uppercase;
+     
+}
+
+.content{
+    color:red;
+    text-decoration: none;
+}
+
+.newclass{
+    background-color: green;
+}
